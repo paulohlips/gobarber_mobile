@@ -17,7 +17,7 @@
  <img alt="GoBarber Web" src="/docs/agendamento.png"/>
  <img alt="GoBarber Web" src="/docs/horario.png"/>
  <img alt="GoBarber Web" src="/docs/confirmahora.png"/>
-
+</div>
 ## Libs used
 
 - [React Native](https://reactjs.org/)
