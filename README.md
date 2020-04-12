@@ -1,8 +1,8 @@
-<h2 align="center">
-    <img alt="GoBarber Web" src="/docs/logo.svg" />
+<h3 align="center">
+    <img alt="GoBarber Mobile" src="docs/logoRoxa.svg" />
     <br>
     GoBarber Mobile - Customer Module
-</h2>
+</h3>
 
 <h4 align="center">
   Customers's mobile app to help schedule a baber shop service.
